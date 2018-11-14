@@ -1,7 +1,5 @@
-# WDI-Project3
-# General Assembly Project 3 : ArtMapper
-
-## Goal - to build a full-stack RESTful MERN application. A group project.
+# ArtMapper
+(General Assembly Project 3 - A full-stack RESTful MERN application)
 
 ## Technologies used
 
@@ -21,9 +19,6 @@
 * Artsy.net
 * Google Cloud Vision
 
-## Contributors
-
-This was a group project with 3 members. The project was managed using Trello and daily stand-ups.
 
 ## Our Application - 'ArtMapper'
 ![artmapper logo](https://user-images.githubusercontent.com/40343797/48482269-27357f80-e808-11e8-84de-39bad79fbf73.png)
@@ -81,9 +76,6 @@ Tasks were managed and assigned through the task manager Trello and we had daily
 
 The layout of the site was created based on  Mobile-First-Design principles. Initial mock-up wire frames were made during the planning phase to show the basic functionality of each page and general layout. These were then worked on in more detail during the styling aspect of the build. Bulma CSS framework was used to create the structure of the layout and its responsiveness. Further styling was added with SCSS.
 
-### Individual inputs
-### Wins
-### Challenges
 ### Future Features
 
 We were hoping to create an app which would encourage uses to create and maintain the database of paintings. We had initially planned to add a trophies or points system to motivate users to upload new paintings. Users would gain trophies by uploading new paintings. We would also have liked to let users add follow friends so they can compete with other users and see when their friends upload new paintings or complete a journey.
